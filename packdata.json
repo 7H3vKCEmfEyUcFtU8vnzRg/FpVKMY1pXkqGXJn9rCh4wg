@@ -4,7 +4,7 @@
     "icon": "https://i.ibb.co/8DqpDM0g/icon.jpg",
     "name": "Pack Skin Thứ Nguyên Vệ Thần",
     "img_preview": "https://i.ibb.co/ymhjHkyv/preview.jpg",
-    "pack_describe": "- Skins List:\n1. Nakroth Thứ nguyên vệ thần\n2. Valhein Thứ nguyên vệ thần\n3. Airi Thứ nguyên vệ thần\n4. Lauriel Thứ nguyên vệ thần\n5. Violet Thứ nguyên vệ thần\n6. Tel'Annas Thứ nguyên vệ thần",
+    "pack_describe": "1. Nakroth Thứ nguyên vệ thần\n2. Valhein Thứ nguyên vệ thần\n3. Airi Thứ nguyên vệ thần\n4. Lauriel Thứ nguyên vệ thần\n5. Violet Thứ nguyên vệ thần\n6. Tel'Annas Thứ nguyên vệ thần",
     "img_previews": [
       "https://i.ibb.co/nsnbKZ4D/1.jpg",
       "https://i.ibb.co/pv4z30W9/2.jpg",
@@ -17,65 +17,81 @@
   },
   {
     "id": 1,
-    "icon": "",
-    "name": "Pack Skin Tết CG 2023",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "icon": "https://i.ibb.co/hRjMM725/photo-2-2026-03-10-03-35-31.jpg",
+    "name": "Pack Skin Tết CG 2024",
+    "img_preview": "https://i.ibb.co/My5N5g3Y/photo-1-2026-03-10-03-35-31.jpg",
+    "pack_describe": "1. Bijan Kình Thiên Long Kỵ\n2. Violet Vọng Nguyệt Long Cơ\n3. Triệu Vân Minh Chung Long Đế",
+    "img_previews": [
+      "https://i.ibb.co/S70tDSDV/photo-1-2026-03-10-03-22-45.jpg",
+      "https://i.ibb.co/3ynFn9kp/photo-2-2026-03-10-03-22-45.jpg",
+      "https://i.ibb.co/b5dX7BDK/photo-3-2026-03-10-03-22-45.jpg"
+    ],
     "download_url": ""
   },
   {
     "id": 2,
-    "icon": "",
-    "name": "Pack Skin Tết CG 2024",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "icon": "https://i.ibb.co/j9LJdjW2/photo-3-2026-03-10-03-35-31.jpg",
+    "name": "Pack Skin Tết CG 2025",
+    "img_preview": "https://i.ibb.co/yBy9VwFZ/photo-4-2026-03-10-03-35-31.jpg",
+    "pack_describe": "1. Billow Thiên Tướng - Độ Ách\n2. Bolt Baron Thiên Phủ - Tư Mệnh\n3. Veera Thất Sát - Thượng Sinh",
+    "img_previews": [
+      "https://i.ibb.co/FkbZWy1D/photo-1-2026-03-10-03-22-39.jpg",
+      "https://i.ibb.co/bZcWZzJ/photo-2-2026-03-10-03-22-39.jpg",
+      "https://i.ibb.co/N0JwFjB/photo-3-2026-03-10-03-22-39.jpg"
+    ],
     "download_url": ""
   },
   {
     "id": 3,
-    "icon": "",
-    "name": "Pack Skin Tết CG 2025",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "icon": "https://i.ibb.co/2VmWPW9/photo-5-2026-03-10-03-35-31.jpg",
+    "name": "Pack Skin Tết CG 2026",
+    "img_preview": "https://i.ibb.co/B5M3ZbH1/photo-6-2026-03-10-03-35-31.jpg",
+    "pack_describe": "1. Lauriel Mã Đằng Cửu Thế\n2. Dolia Mã Khởi Thiên Ca\n3. Valhein Mã Hành Vạn Lý",
+    "img_previews": [
+      "https://i.ibb.co/4w6jMyrz/photo-1-2026-03-10-03-22-52.jpg",
+      "https://i.ibb.co/zh2Zf2fX/photo-2-2026-03-10-03-22-52.jpg",
+      "https://i.ibb.co/NgDZyxBT/photo-3-2026-03-10-03-22-52.jpg"
+    ],
     "download_url": ""
   },
   {
     "id": 4,
-    "icon": "",
-    "name": "Pack Skin Tết CG 2025",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "icon": "https://i.ibb.co/CG9Wg8F/photo-1-2026-03-10-03-55-54.jpg",
+    "name": "Pack Skin Thời Không",
+    "img_preview": "https://i.ibb.co/1Jnmj6Pw/photo-2-2026-03-10-03-55-54.jpg",
+    "pack_describe": "1. Krixi Phù Thủy Thời Không\n2. Bijan Lữ Hành Thời Không\n3. Rouie Linh Sứ Thời Không",
+    "img_previews": [
+      "https://i.ibb.co/WN9hX3mH/photo-1-2026-03-10-03-22-59.jpg",
+      "https://i.ibb.co/HLGm3NtD/photo-2-2026-03-10-03-22-59.jpg",
+      "https://i.ibb.co/1JJsfkkn/photo-3-2026-03-10-03-22-59.jpg"
+    ],
     "download_url": ""
   },
   {
     "id": 5,
-    "icon": "",
-    "name": "Pack Skin Thời Không",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "icon": "https://i.ibb.co/j9x0R9nc/photo-4-2026-03-10-03-52-04.jpg",
+    "name": "Pack Skin Wave",
+    "img_preview": "https://i.ibb.co/GQZxv63f/photo-3-2026-03-10-03-52-04.jpg",
+    "pack_describe": "1. Yena Wave\n2. Sinestrea Wave\n3. Liliana Wave\n4. Điêu Thuyền Wave\n5. Sephera Nova Stardust",
+    "img_previews": [
+      "https://i.ibb.co/Mxc77zqK/photo-1-2026-03-10-03-23-06.jpg",
+      "https://i.ibb.co/MknMvRTK/photo-2-2026-03-10-03-23-06.jpg"
+    ],
     "download_url": ""
   },
   {
     "id": 6,
-    "icon": "",
-    "name": "Pack Skin Wave",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
-    "download_url": ""
-  },
-  {
-    "id": 7,
-    "icon": "",
+    "icon": "https://i.ibb.co/P788ztH/photo-1-2026-03-10-03-52-04.jpg",
     "name": "Pack Skin S-Deamer",
-    "img_preview": "",
-    "pack_describe": "",
-    "img_previews": [],
+    "img_preview": "https://i.ibb.co/Xrwc2xPb/photo-2-2026-03-10-03-52-04.jpg",
+    "pack_describe": "1. Laville Chiến Thần Moba\n2. Zata Tác Gia Đương Đại\n3. FLorentino Bá Vương Âm Nhạc\n4. Veres Thù Thủy Trang Điểm\n5. Helen Hotgirl Trà Sữa",
+    "img_previews": [
+      "https://i.ibb.co/XrhMxxmZ/photo-1-2026-03-10-03-23-13.jpg",
+      "https://i.ibb.co/TpkFqqH/photo-2-2026-03-10-03-23-13.jpg",
+      "https://i.ibb.co/nMdtBqgm/photo-3-2026-03-10-03-23-13.jpg",
+      "https://i.ibb.co/xq2d7Vj0/photo-4-2026-03-10-03-23-13.jpg",
+      "https://i.ibb.co/fdDYrtMW/photo-5-2026-03-10-03-23-13.jpg"
+    ],
     "download_url": ""
   }
 ]
