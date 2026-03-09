@@ -1,8 +1,42 @@
 [
   {
     "id": 0,
+    "icon": "https://i.ibb.co/LX2KyhPJ/IMG-0217.jpg",
+    "name": "Pack Skin Thứ Nguyên Vệ Thần",
+    "img_preview": "https://i.ibb.co/WpHzJZ8f/IMG-0216.jpg",
+    "pack_describe": "- Skins List:\n1. Nakroth Thứ nguyên vệ thần\n2. Valhein Thứ nguyên vệ thần\n3. Airi Thứ nguyên vệ thần\n4. Lauriel Thứ nguyên vệ thần\n5. Violet Thứ nguyên vệ thần\n6. Tel'Annas Thứ nguyên vệ thần",
+    "img_previews": [
+      "https://i.ibb.co/Rktzkz8y/IMG-0208.png",
+      "https://i.ibb.co/3Y0SwDD1/IMG-0214.png",
+      "https://i.ibb.co/BHffmP6G/IMG-0209.png",
+      "https://i.ibb.co/0pGfbw92/IMG-0210.png",
+      "https://i.ibb.co/PJ9MvNC/IMG-0211.png",
+      "https://i.ibb.co/mVVXvM7X/IMG-0215.png"
+    ],
+    "download_url": ""
+  },
+  {
+    "id": 1,
     "icon": "",
-    "name": "",
+    "name": "Pack Skin Tết 2024",
+    "img_preview": "",
+    "pack_describe": "",
+    "img_previews": [],
+    "download_url": ""
+  },
+  {
+    "id": 2,
+    "icon": "",
+    "name": "Pack Skin Tết 2025",
+    "img_preview": "",
+    "pack_describe": "",
+    "img_previews": [],
+    "download_url": ""
+  },
+  {
+    "id": 3,
+    "icon": "",
+    "name": "Pack Skin Thời Không",
     "img_preview": "",
     "pack_describe": "",
     "img_previews": [],
