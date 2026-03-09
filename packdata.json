@@ -1,11 +1,13 @@
 [
-  "id": 0,
-  "name": "",
-  "icon": "",
-  "img_preview": "",
-  "img_preview_1": "",
-  "img_preview_2": "",
-  "img_preview_3": "",
-  "img_preview_4": "",
-  "download_url": ""
+  {
+    "id": 0,
+    "name": "",
+    "icon": "",
+    "img_preview": "",
+    "img_preview_1": "",
+    "img_preview_2": "",
+    "img_preview_3": "",
+    "img_preview_4": "",
+    "download_url": ""
+  }
 ]
