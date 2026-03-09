@@ -13,7 +13,7 @@
     "img_preview": "https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15009.jpg",
     "pack_describe": "",
     "img_previews": ["https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15013.jpg", "https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15015.jpg"],
-    "download_url": "https://github.com/7H3vKCEmfEyUcFtU8vnzRg/FpVKMY1pXkqGXJn9rCh4wg/releases/download/mod/5992.zip"
+    "download_url": "http://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/servers/com.garena.game.kgvn/files/prefab_characters_all.zip"
   },
   {
     "id": 2,
@@ -21,6 +21,6 @@
     "img_preview": "https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15012.jpg",
     "pack_describe": "",
     "img_previews": ["https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15013.jpg", "https://dl.ops.kgtw.garenanow.com/CHT/HeroTrainingLoadingNew_B36/15015.jpg"],
-    "download_url": ""
+    "download_url": "http://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/servers/com.garena.game.kgvn/files/prefab_characters_all.zip"
   }
 ]
