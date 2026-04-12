@@ -26,7 +26,7 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny24-2.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny24-3.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/CGLNY2024.zip"
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny25-2.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny25-3.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/CGLNY2025.zip"
   },
   {
     "id": 3,
@@ -52,7 +52,7 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny26-2.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/lny26-3.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/CGLNY2026.zip"
   },
   {
     "id": 4,
@@ -65,7 +65,7 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/manga-2.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/manga-3.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/MangaPack.zip"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/wave-1.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/wave-2.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/WavePack.zip"
   },
   {
     "id": 6,
@@ -92,6 +92,6 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/sd-4.jpg",
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/sd-5.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/SDreamerPack.zip"
   }
 ]
