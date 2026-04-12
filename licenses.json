@@ -1,10 +1,16 @@
 {
   "licenses": [
     {
-      "installId": null,
+      "installId": "927F55A9-25B6-420D-9D24-1A70833EA864",
       "status": "active",
       "expiresAt": "9999-05-12T16:59:59Z",
-      "note": "ADMIN"
+      "note": "ADMIN (iPhone)"
+    },
+    {
+      "installId": "8D49035F-EE71-490D-9083-A3600D037856",
+      "status": "active",
+      "expiresAt": "9999-05-12T16:59:59Z",
+      "note": "ADMIN (iPad)"
     }
   ]
 }
