@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "installId": "A1B2C3D4-E5F6-7890-ABCD-1234567890EF",
+      "status": "active",
+      "expiresAt": "2026-05-12T23:59:59Z",
+      "note": "User A"
+    },
+    {
+      "installId": "F0E1D2C3-B4A5-6789-DCBA-0987654321FF",
+      "status": "active",
+      "expiresAt": null,
+      "note": "VIP"
+    }
+  ]
+}
