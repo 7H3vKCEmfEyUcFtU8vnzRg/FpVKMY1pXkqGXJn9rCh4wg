@@ -1,17 +1,17 @@
 [
   {
     "id": 0,
-    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh1.png",
+    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh1.PNG",
     "name": "Map VGVD full địa hình",
-    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh1.png",
+    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh1.PNG",
     "pack_describe": "Lưu ý:\nXài chung mod khác -> bị lỗi map trắng -> không chịu trách nhiệm.",
     "img_previews": [
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh2.png",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh3.png",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh4.png",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh5.png",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh6.png",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh7.png"
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh2.PNG",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh3.PNG",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh4.PNG",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh5.PNG",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh6.PNG",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/mh7.PNG"
     ],
     "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/Map HOK iOS.zip"
   }
