@@ -1,19 +1,17 @@
 [
   {
     "id": 0,
-    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db-icon.jpg",
-    "name": "Pack Skin Thứ Nguyên Vệ Thần",
-    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db-preview.jpg",
-    "pack_describe": "1. Nakroth Thứ nguyên vệ thần\n2. Valhein Thứ nguyên vệ thần\n3. Airi Thứ nguyên vệ thần\n4. Lauriel Thứ nguyên vệ thần\n5. Violet Thứ nguyên vệ thần\n6. Tel'Annas Thứ nguyên vệ thần",
+    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
+    "name": "Mod Nakroth Bboy công nghệ cũ",
+    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
+    "pack_describe": "Lưu ý: Sử dụng skin mặc định để có trải nghiệm tốt nhất",
     "img_previews": [
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db1.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db2.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db3.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db4.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db5.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db6.jpg"
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs1.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs11.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs2.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg"
     ],
-    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/DBPack.zip"
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/Bboy Old - iOS.zip"
   },
   {
     "id": 1,
@@ -93,5 +91,21 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/sd-5.jpg"
     ],
     "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/SDreamerPack.zip"
+  },
+  {
+    "id": 7,
+    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db-icon.jpg",
+    "name": "Pack Skin Thứ Nguyên Vệ Thần",
+    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db-preview.jpg",
+    "pack_describe": "1. Nakroth Thứ nguyên vệ thần\n2. Valhein Thứ nguyên vệ thần\n3. Airi Thứ nguyên vệ thần\n4. Lauriel Thứ nguyên vệ thần\n5. Violet Thứ nguyên vệ thần\n6. Tel'Annas Thứ nguyên vệ thần",
+    "img_previews": [
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db1.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db2.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db3.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db4.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db5.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db6.jpg"
+    ],
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/DBPack.zip"
   }
 ]
