@@ -1,17 +1,17 @@
 [
   {
     "id": 0,
-    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
-    "name": "Mod Nakroth Bboy công nghệ cũ",
-    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
-    "pack_describe": "Lưu ý: Sử dụng skin mặc định để có trải nghiệm tốt nhất",
+    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-preview.jpg",
+    "name": "Pack 4 Skin Attack on Titan",
+    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-preview.jpg",
+    "pack_describe": "Danh sách skin:\n1. Nakroth Levi Ackerman\n2. Cresht Eren Jaeger\n3. Qi Annie Leonhart\n4. Aoi Mikasa Ackerman",
     "img_previews": [
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs1.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs11.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs2.jpg",
-      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg"
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-levi.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-eren.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-mikasa.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/aot-annie.jpg"
     ],
-    "download_url": ""
+    "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/AOTPack.zip"
   },
   {
     "id": 1,
@@ -107,5 +107,19 @@
       "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/db6.jpg"
     ],
     "download_url": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/skins-ios/DBPack.zip"
+  },
+  {
+    "id": 8,
+    "icon": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
+    "name": "Mod Nakroth Bboy công nghệ cũ",
+    "img_preview": "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg",
+    "pack_describe": "Lưu ý: Sử dụng skin mặc định để có trải nghiệm tốt nhất",
+    "img_previews": [
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs1.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs11.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs2.jpg",
+      "https://s3-hcm-r2.s3cloud.vn/nox-mod-skin-storage/img/nakbbs3.jpg"
+    ],
+    "download_url": ""
   }
 ]
